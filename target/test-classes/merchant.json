@@ -1,0 +1,36 @@
+[
+  {
+    "brand": "puma",
+    "category": "shoes",
+    "createdDateTime": "2023-04-19T04:59:36.669Z",
+    "description": "for all ages",
+    "merchantId": 1234,
+    "name": "kishore puma",
+    "offer": 1500,
+    "price": 1000,
+    "productId": 1234,
+    "productImageURLs": [
+      "url"
+    ],
+    "quantity": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "dateTime": "2023-04-19T04:59:36.669Z",
+        "description": "shoes for everyone",
+        "heading": "formals",
+        "rating": 2,
+        "shopperId": 1234,
+        "shopperName": "ashok puma"
+      }
+    ],
+    "searchTags": [
+      "search tag"
+    ],
+    "status": "ACTIVE",
+    "thumbnailURL": "hello",
+    "title": "title",
+    "type": "casual",
+    "zoneId": "ALPHA"
+  }
+]

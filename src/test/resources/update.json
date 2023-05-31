@@ -1,0 +1,34 @@
+{
+  "brand": "adidas",
+  "category": "spectacles",
+  "createdDateTime": "2023-04-19T09:35:47.421Z",
+  "description": "good",
+  "merchantId": 1234,
+  "name": "kishore",
+  "offer": 5000,
+  "price": 2000,
+  "productId": 392,
+  "productImageURLs": [
+    "url"
+  ],
+  "quantity": 2,
+  "rating": 1,
+  "reviews": [
+    {
+      "dateTime": "2023-04-19T09:35:47.421Z",
+      "description": "string",
+      "heading": "string",
+      "rating": 0,
+      "shopperId": 1234,
+      "shopperName": "string"
+    }
+  ],
+  "searchTags": [
+    "string"
+  ],
+  "status": "ACTIVE",
+  "thumbnailURL": "thumbnail",
+  "title": "spec",
+  "type": "spectacles",
+  "zoneId": "ALPHA"
+}
